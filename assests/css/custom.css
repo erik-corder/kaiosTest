@@ -1,0 +1,86 @@
+.main-navbar{
+    background-color: aqua !important;
+    height: 60px;
+    margin-bottom: 0px !important;
+  }
+
+.customer-details{
+    text-align: left;
+}
+
+.fa-bars{
+  font-size: 300% !important;
+  margin-bottom: 50%;
+  margin-left: 10px;
+}
+
+.cantact-list{
+  font-size: 25px;
+}
+
+.card{
+  width: 25%;
+  float: left;
+  height: 82px;
+}
+
+.icons{
+  font-size: 20px;
+}
+
+.pho-num{
+  font-size: 20px;
+  margin-bottom: 0; 
+}
+
+.mob{
+  float: left;
+  margin-top: 0;
+}
+
+.details{
+  float: left;
+}
+
+.incom-call{
+  color: green;
+}
+
+.recent-details{
+    padding-left: 0;
+    float: left;
+}
+
+.footer{
+  background-color: #76aeaf;
+  padding: 0;
+}
+
+.back-button{
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.uk-offcanvas-close{
+  color: white;
+}
+
+.side-bar{
+  width: 100%;
+}
+
+.nav-list{
+  font-size: 20px;
+}
+
+.login-form{
+  margin: 50% 0;
+}
+
+.login-field{
+  width: 70%;
+}
+
+.log-icon{
+  font-size: 20px;
+}
